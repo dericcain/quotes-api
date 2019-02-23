@@ -1,0 +1,14 @@
+/Users/deric/Code/QuotesApi/QuotesApi/obj/Debug/netcoreapp2.2/QuotesApi.csprojAssemblyReference.cache
+/Users/deric/Code/QuotesApi/QuotesApi/obj/Debug/netcoreapp2.2/QuotesApi.csproj.CoreCompileInputs.cache
+/Users/deric/Code/QuotesApi/QuotesApi/obj/Debug/netcoreapp2.2/QuotesApi.RazorAssemblyInfo.cache
+/Users/deric/Code/QuotesApi/QuotesApi/obj/Debug/netcoreapp2.2/QuotesApi.RazorAssemblyInfo.cs
+/Users/deric/Code/QuotesApi/QuotesApi/obj/Debug/netcoreapp2.2/QuotesApi.AssemblyInfoInputs.cache
+/Users/deric/Code/QuotesApi/QuotesApi/obj/Debug/netcoreapp2.2/QuotesApi.AssemblyInfo.cs
+/Users/deric/Code/QuotesApi/QuotesApi/bin/Debug/netcoreapp2.2/QuotesApi.deps.json
+/Users/deric/Code/QuotesApi/QuotesApi/bin/Debug/netcoreapp2.2/QuotesApi.runtimeconfig.json
+/Users/deric/Code/QuotesApi/QuotesApi/bin/Debug/netcoreapp2.2/QuotesApi.runtimeconfig.dev.json
+/Users/deric/Code/QuotesApi/QuotesApi/bin/Debug/netcoreapp2.2/QuotesApi.dll
+/Users/deric/Code/QuotesApi/QuotesApi/bin/Debug/netcoreapp2.2/QuotesApi.pdb
+/Users/deric/Code/QuotesApi/QuotesApi/obj/Debug/netcoreapp2.2/QuotesApi.RazorTargetAssemblyInfo.cache
+/Users/deric/Code/QuotesApi/QuotesApi/obj/Debug/netcoreapp2.2/QuotesApi.dll
+/Users/deric/Code/QuotesApi/QuotesApi/obj/Debug/netcoreapp2.2/QuotesApi.pdb
