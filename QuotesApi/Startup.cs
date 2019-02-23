@@ -39,7 +39,7 @@ namespace QuotesApi
             }
 
             app.UseHttpsRedirection();
-            quotesDbContext.Database.EnsureCreated();
+            quotesDbContext.Database.MigrateAsync();
             app.UseMvc();
         }
     }

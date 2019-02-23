@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using QuotesApi.Data;
@@ -10,7 +9,7 @@ namespace QuotesApi.Controllers
     [ApiController]
     public class QuotesController : Controller
     {
-        private QuotesDbContext _quotesDbContext;
+        private readonly QuotesDbContext _quotesDbContext;
 
         public QuotesController(QuotesDbContext quotesDbContext)
         {
@@ -61,6 +60,8 @@ namespace QuotesApi.Controllers
             entity.Title = quote.Title;
             entity.Description = quote.Description;
             entity.Author = quote.Author;
+            entity.Type = quote.Type;
+            entity.CreatedAt = quote.CreatedAt;
             _quotesDbContext.SaveChanges();
 
             return Ok("Record updated Successfully...");
